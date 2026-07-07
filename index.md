@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # claude-compass
 
 Trust your compass.
@@ -52,5 +58,3 @@ Issues and pull requests are welcome at [github.com/myowinthein/claude-compass/i
 ## License
 
 [MIT](LICENSE)
-
-<!-- last-reviewed: 592aca1d6a71f53cc3273aa66d7602694bd92948 -->
